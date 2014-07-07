@@ -1,0 +1,52 @@
+﻿ @model List<Better.Amy.IDao.MTree> 
+@{
+    ViewBag.Title = "DynamicTree";
+}
+
+<script src="~/javascript/jquery-1.7.2.min.js"></script>
+<script src="~/javascript/DynamicTree.js"></script>
+<style type="text/css">
+    a
+    {
+        width:30px;
+    }
+
+</style>
+
+<h2>树</h2>
+<div id="content">
+    <div id="left" style ="float:left;overflow:auto;min-width:600px;">
+        @if(Model!= null && Model.Count > 0){
+            List<Better.Amy.IDao.MTree> level0 = Model.FindAll(p => p.Level == 0);
+            foreach(var item in level0)
+            {
+                <a id="@item.ID" href="javascript:void(0);">@item.Name</a><br />
+                List<Better.Amy.IDao.MTree> level1 = Model.FindAll(p => p.Level == 1 && p.PID == item.ID);
+                if (level1 != null && level1.Count > 0)
+                {
+                    <div class='@item.ID' style="display:none;margin-left:20px;">
+                    @foreach (var j in level1)
+                    {
+                        <a id ="@j.ID" href="javascript:void(0);">@j.Name</a><br />
+                        
+                        List<Better.Amy.IDao.MTree> level2 = Model.FindAll(p => p.Level == 2 && p.PID == j.ID);
+                        if (level2.Count > 0){
+                        <div class="@j.ID" style="display:none; margin-left:35px;">
+                           @foreach(var k in level2)
+                           {
+                                <a id="@k.ID" href="javascript:void(0);">@k.Name</a> <br />
+                           }
+
+                        </div>
+                    }
+                    }
+                    </div>
+                }
+                }
+            }
+    </div>
+    <div id="right" style="float:right; overflow:auto;"></div>
+    <div style="clear:both;"></div>
+</div>
+
+

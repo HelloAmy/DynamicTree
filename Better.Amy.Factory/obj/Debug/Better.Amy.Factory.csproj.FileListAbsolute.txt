@@ -1,0 +1,10 @@
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\Better.Amy.Factory.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\Better.Amy.Factory.pdb
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\Better.Amy.IDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\Better.Amy.MysqlDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\MySql.Data.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\Better.Amy.IDao.pdb
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\bin\Debug\Better.Amy.MysqlDao.pdb
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\obj\Debug\Better.Amy.Factory.csprojResolveAssemblyReference.cache
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\obj\Debug\Better.Amy.Factory.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.Factory\obj\Debug\Better.Amy.Factory.pdb

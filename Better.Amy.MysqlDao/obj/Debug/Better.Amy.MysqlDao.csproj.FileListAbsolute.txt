@@ -1,0 +1,8 @@
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\bin\Debug\Better.Amy.MysqlDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\bin\Debug\Better.Amy.MysqlDao.pdb
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\bin\Debug\Better.Amy.IDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\bin\Debug\MySql.Data.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\bin\Debug\Better.Amy.IDao.pdb
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\obj\Debug\Better.Amy.MysqlDao.csprojResolveAssemblyReference.cache
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\obj\Debug\Better.Amy.MysqlDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.MysqlDao\obj\Debug\Better.Amy.MysqlDao.pdb

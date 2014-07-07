@@ -1,0 +1,5 @@
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.IDao\bin\Debug\Better.Amy.IDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.IDao\bin\Debug\Better.Amy.IDao.pdb
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.IDao\bin\Debug\MySql.Data.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.IDao\obj\Debug\Better.Amy.IDao.dll
+D:\006GitHub\01code\03csharp\DynamicTree\Better.Amy.IDao\obj\Debug\Better.Amy.IDao.pdb
